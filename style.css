@@ -1,0 +1,47 @@
+body
+{
+    background-color: #171D1C;
+    color: snow;
+    text-align: center;
+}
+#container
+{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px auto;
+    max-width: 450px;
+}
+#container div
+{
+    margin: 10px;
+    height: 150px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 20%;
+}
+.box0
+{
+    background-color: #2892B8;
+}
+.box1
+{
+    background-color: #B17A43;
+}
+.box2
+{
+    background-color: #17C3B2;
+}
+.box3
+{
+    background-color: #E36374;
+}
+.flash
+{
+    background-color: #ff0000          ;
+}
+.userflash
+{
+    background-color: #55ff00df          ;
+}
